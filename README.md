@@ -1,10 +1,10 @@
 # La Cucina 🍝
 
-**La Cucina** is a web system designed to manage recipes, orders, and menus for a restaurant. This project focuses primarily on the **front-end**, but includes some basic **back-end** functionalities for learning and development purposes. The project is currently a **work in progress**, with new features being planned and implemented.
+La Cucina is a web system designed to manage recipes, orders, and menus for a restaurant. This project focuses primarily on the front-end, but includes some basic back-end functionalities for learning and development purposes. The project is currently a work in progress, with new features being planned and implemented.
 
 ## 📋 Features (in development)
 
-- **Recipe management:** Add, edit, and delete recipes with details like ingredients, preparation steps, and preparation time.
+- Recipe management: Add, edit, and delete recipes with details like ingredients, preparation steps, and preparation time.
 - **Order management:** List and update order statuses (pending, in preparation, completed).
 - **Menu visualization:** Display available menu items for customers.
 - **Responsive design:** Intuitive navigation for both mobile and desktop devices.
